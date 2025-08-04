@@ -3,7 +3,7 @@ using namespace std;
 int q[100];
 int front =-1;
 int rear =-1;
-int size=4;
+int size = 4;
 int isfull()
 {
  if(rear==size-1)
@@ -50,7 +50,7 @@ q[rear] = value;
     else{
         int ele=q[front];
         front=front+1;
-        cout<<ele<<"deleted\n";
+        cout<<ele<<" deleted \n";
         return 0;
     }
  }

@@ -51,13 +51,15 @@ void enqueue(int val){
     count = count + 1;
 }
 void dequeue(){
-    for(int i=0;i<=count;i++){
+    for(int i = 0;i<count;i++){
         int ele1 = pop1();
         push2(ele1);
     }
-    for(int i=0;i<=count;i++){
     int ele2 = pop2();
-    count=count-1;
+    cout<<ele2<<endl;
+    for(int i = 0;i<count;i++){
+    count--;
+    int ele2 = pop2();
     push1(ele2);
 }
 }
@@ -75,6 +77,7 @@ int main(){
     enqueue(10);
     enqueue(15);
     enqueue(20);
+    display();
     dequeue();
     display();
     return 0 ;
