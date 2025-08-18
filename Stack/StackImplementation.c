@@ -4,7 +4,7 @@ int stack[10];
 int size = 10;
 int top = -1;
 bool isFull(){
-   return top == size -1;
+   return top == size - 1;
 }
 bool isEmpty(){
    return top == -1;
