@@ -56,7 +56,7 @@ void dequeue(){
         push2(ele1);
     }
     int ele2 = pop2();
-    cout<<ele2<<endl;
+    cout<<ele2<<" deleted "<<endl;
     for(int i = 0;i<count;i++){
     count--;
     int ele2 = pop2();
