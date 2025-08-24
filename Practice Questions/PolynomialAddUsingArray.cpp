@@ -3,14 +3,19 @@ using namespace std;
 
 int* poly_add(int p1[],int p2[],int max_degree){
     int* res = new int[max_degree + 1];
-    for(int i = 0 ; i < max_degree + 1; i--){
+    for(int i = 0 ; i < max_degree + 1; i++){
         res[i] = p1[i]+p2[i];
     }
     return res;
 }
 void display(int p1[],int max_degree){
 for(int i = max_degree;i >= 0;i--){
-cout<<p1[i]<<"x^"<<i<<"+";
+if(i==0){
+    cout<<p1[i]<<"x^"<<i;
+}
+else{
+    cout<<p1[i]<<"x^"<<i<<"+";
+}
 }
 cout<<""<<endl;
 }
