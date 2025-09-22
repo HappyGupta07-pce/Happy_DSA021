@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int arr[5] = {23, 1, 10, 5, 2};
-void Selection_Sort()
+void Bubble_Sort()
 {
     for (int i = 0; i <= 3; i++)
     {
@@ -27,7 +27,7 @@ int main()
     cout << "Before Sorting :" << endl;
     display();
     cout << "After Sorting :" << endl;
-    Selection_Sort();
+    Bubble_Sort();
     display();
     return 0;
 }
