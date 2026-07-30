@@ -1,16 +1,13 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int count[] = new int[26];
+        char result = 0;
 
         for(char c : s.toCharArray()){
-            count[c - 'a']++;
+          result ^= c;
         }
         for(char c : t.toCharArray()){
-            count[c - 'a']--;
-            if(count[c - 'a'] < 0){
-                return c;
-            }
+          result ^= c;
         }
-        return ' ';
+        return result;
     }
 }
