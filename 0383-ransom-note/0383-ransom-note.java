@@ -1,5 +1,8 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
+        if (ransomNote.length() > magazine.length())
+            return false;
+
         int count[] = new int[26];
 
         for (char c : magazine.toCharArray()) {
