@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
