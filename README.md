@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 ## Binary Search
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
