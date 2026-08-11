@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
