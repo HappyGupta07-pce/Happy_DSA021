@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0147-insertion-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
