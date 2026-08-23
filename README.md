@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
