@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
