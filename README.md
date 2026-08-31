@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
