@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
 ## Array
 |  |
