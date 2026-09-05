@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0520-detect-capital) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
