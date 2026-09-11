@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
+| [0507-perfect-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3870-count-commas-in-range) |
