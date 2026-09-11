@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
+| [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
