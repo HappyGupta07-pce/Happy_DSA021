@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
