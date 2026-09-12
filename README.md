@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0238-product-of-array-except-self) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 ## Number Theory
 |  |
 | ------- |
