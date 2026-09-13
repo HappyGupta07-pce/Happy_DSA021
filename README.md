@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
+| [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+| [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3875-construct-uniform-parity-array-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
 | ------- |
