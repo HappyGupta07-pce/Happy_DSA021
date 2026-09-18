@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0701-insert-into-a-binary-search-tree) |
