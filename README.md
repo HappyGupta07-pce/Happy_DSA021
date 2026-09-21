@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
