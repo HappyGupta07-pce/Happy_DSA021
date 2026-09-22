@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
