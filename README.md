@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3904-smallest-stable-index-ii) |
 ## Database
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
