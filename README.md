@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0151-reverse-words-in-a-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
