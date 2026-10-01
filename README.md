@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
