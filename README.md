@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3870-count-commas-in-range) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Memoization
 |  |
 | ------- |
@@ -470,4 +474,28 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0020-valid-parentheses) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
