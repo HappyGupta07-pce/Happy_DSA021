@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
