@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0504-base-7](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
+| [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0713-subarray-product-less-than-k) |
+| [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
