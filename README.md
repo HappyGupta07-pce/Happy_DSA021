@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
