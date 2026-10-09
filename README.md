@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
