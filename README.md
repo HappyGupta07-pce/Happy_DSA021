@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Sorting
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -588,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
 ## Bracket Sequences
 |  |
