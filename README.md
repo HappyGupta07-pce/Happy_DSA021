@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1672-richest-customer-wealth) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
