@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0213-house-robber-ii) |
