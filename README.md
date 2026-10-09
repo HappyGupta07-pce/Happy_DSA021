@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
