@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0713-subarray-product-less-than-k) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0682-baseball-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
