@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
