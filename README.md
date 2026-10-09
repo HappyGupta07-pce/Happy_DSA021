@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
