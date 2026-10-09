@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0219-contains-duplicate-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0525-contiguous-array) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
