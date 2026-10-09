@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0575-distribute-candies) |
+| [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0697-degree-of-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0697-degree-of-an-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
