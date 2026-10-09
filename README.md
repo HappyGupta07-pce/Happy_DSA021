@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0125-valid-palindrome) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
