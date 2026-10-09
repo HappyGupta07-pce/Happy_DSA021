@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0219-contains-duplicate-ii) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Memoization
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
@@ -587,10 +592,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Manacher
 |  |
