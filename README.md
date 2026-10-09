@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
