@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
