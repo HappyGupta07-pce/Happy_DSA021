@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
 | ------- |
