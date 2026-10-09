@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Sorting
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
 | [0504-base-7](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0504-base-7) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2094-finding-3-digit-even-numbers) |
 ## Array
