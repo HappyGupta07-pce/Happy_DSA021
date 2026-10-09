@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0213-house-robber-ii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Bucket Sort
 |  |
