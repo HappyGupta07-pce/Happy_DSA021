@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0390-elimination-game) |
+| [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
