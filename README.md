@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0713-subarray-product-less-than-k) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
