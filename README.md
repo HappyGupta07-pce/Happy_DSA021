@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0075-sort-colors) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0042-trapping-rain-water) |
