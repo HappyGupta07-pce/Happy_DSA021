@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 ## Sorting
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
