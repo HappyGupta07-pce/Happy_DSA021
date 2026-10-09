@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
