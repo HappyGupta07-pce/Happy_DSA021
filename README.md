@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3875-construct-uniform-parity-array-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3903-smallest-stable-index-i) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0682-baseball-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
