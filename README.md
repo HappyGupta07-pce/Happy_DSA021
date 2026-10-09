@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0504-base-7](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0796-rotate-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
