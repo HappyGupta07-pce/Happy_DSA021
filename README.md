@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
