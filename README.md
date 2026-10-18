@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0739-daily-temperatures) |
+| [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0713-subarray-product-less-than-k) |
 | [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
+| [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
