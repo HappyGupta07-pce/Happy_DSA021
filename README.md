@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
