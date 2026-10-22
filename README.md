@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0611-valid-triangle-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0575-distribute-candies) |
+| [0611-valid-triangle-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0643-maximum-average-subarray-i) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0704-binary-search) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
