@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0825-friends-of-appropriate-ages](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1833-maximum-ice-cream-bars) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -563,12 +567,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -785,4 +791,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
