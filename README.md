@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1254-number-of-closed-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1971-find-if-path-exists-in-graph) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1971-find-if-path-exists-in-graph) |
 ## Number Theory
 |  |
