@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/0682-baseball-game) |
+| [1518-water-bottles](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HappyGupta07-pce/Happy_DSA021/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
